@@ -1,0 +1,2 @@
+dialog_mil.* filter=lfs diff=lfs merge=lfs -text
+dialog_mul.* filter=lfs diff=lfs merge=lfs -text
