@@ -8,4 +8,4 @@ Every lines is a conversation
 
 "children" is a reply to this round of twitter
 
-"data" is twiter content: "text" is twitter text, "user" is twitter id for conversion
+"data" is twiter content: "text" is twitter text, "user" is twitter id
